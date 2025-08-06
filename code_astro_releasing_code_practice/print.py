@@ -1,7 +1,6 @@
 import numpy as np
 
-a = np.array([1, 2, 3])
-
-print(a)
-
+def wierd_sum(x, y):
+  z = 2x-y
+  return z
 
